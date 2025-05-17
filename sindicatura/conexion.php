@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = ""; // Cambia si tienes contraseña
-$db = "xd"; // o el nombre que uses
+$db = "bienes"; // o el nombre que uses
 
 $conn = new mysqli($host, $user, $pass, $db);
 
